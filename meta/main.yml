@@ -1,0 +1,18 @@
+galaxy_info:
+  role_name:
+  author: Nicholas Burr
+  description:
+
+  license: MIT
+
+  min_ansible_version: 2.9
+
+# https://galaxy.ansible.com/api/v1/platforms/
+  platforms:
+  - name:
+    versions:
+    -
+
+  galaxy_tags: []
+
+dependencies: []
